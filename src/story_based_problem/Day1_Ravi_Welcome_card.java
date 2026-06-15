@@ -26,6 +26,7 @@ class CodingGuild{
         System.out.println("rank: "+ rank);
         System.out.println("salary: "+ salary);
         System.out.println("membership fee: "+membership_fee);
+        System.out.println("Annual Bonus: "+annualBonus());
     }
 }
 
