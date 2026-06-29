@@ -1,5 +1,4 @@
-package oops
-
+package oops_practice.oops.gcr_codebase.OopsProgramming;
 class Vehicle {
     private String vehicleNumber;
     private String ownerName;

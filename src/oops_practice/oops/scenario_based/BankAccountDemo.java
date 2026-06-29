@@ -1,4 +1,4 @@
-package oops
+package oops_practice.oops.scenario_based;
 
 import java.util.ArrayList;
 
