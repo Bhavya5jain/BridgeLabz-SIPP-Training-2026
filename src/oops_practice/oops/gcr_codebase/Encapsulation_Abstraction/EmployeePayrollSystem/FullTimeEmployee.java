@@ -1,4 +1,6 @@
-package oops
+package oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.EmployeePayrollSystem;
+
+import oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.EmployeePayrollSystem.Employee;
 
 public class FullTimeEmployee extends Employee {
 

@@ -1,4 +1,4 @@
-package oops
+package oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.VehicleRentalSystem;
 
 public class VehicleDemo {
     public static void main(String[] args) {

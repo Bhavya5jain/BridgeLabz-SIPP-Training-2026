@@ -1,6 +1,6 @@
-package oops
+package oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.VehicleRentalSystem;
 
-public class Bike extends Vehicle {
+public class Car extends Vehicle {
 
     private double dailyRate;
 

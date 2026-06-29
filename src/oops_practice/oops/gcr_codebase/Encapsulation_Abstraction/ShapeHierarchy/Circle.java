@@ -1,4 +1,5 @@
-package oops
+package oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.ShapeHierarchy;
+import oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.ShapeHierarchy.*;
 
 public class Circle extends Shape {
     private final double radius;

@@ -1,4 +1,4 @@
-package oops
+package oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.EmployeePayrollSystem;
 
 public class PartTimeEmployee extends Employee {
 

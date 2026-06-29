@@ -1,4 +1,4 @@
-package oops
+package oops_practice.oops.gcr_codebase.Encapsulation_Abstraction.ShapeHierarchy;
 
 public class Triangle extends Shape {
     private double a, b, c;
